@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1724885092 source:c:\users\usuario\desktop\etc\sistemas distribuidos\sockets-practica\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<winsock2.h>
+
+1724267884 source:c:\users\usuario\desktop\etc\sistemas distribuidos\sockets-practica\cliente.cpp
+	<iostream>
+	<winsock2.h>
+	<ws2tcpip.h>
+
